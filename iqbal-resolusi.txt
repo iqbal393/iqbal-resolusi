@@ -1,0 +1,4 @@
+IQBAL RESOLUSI
+- Konsisten untuk belajar pengembangan web 2x seminggu
+- Membuat list folder untuk masing-masing pembelajaran pengembangan web
+- Membuat source code di dalam masing-masing list folder sebagai latihan
