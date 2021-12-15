@@ -2,8 +2,10 @@ RENCANA PENGEMBANGAN WEB
 - BACK END
   * PHP
   * MY SQL
-    ^ Onion
-    ^ Logika Dasar
+    ^ Data Query
+    ^ Structure Data
+- STRUKTUR DATA DASAR
 - CYBER SECURITY
-  * DVWA
+  ^ DVWA
 - PENETRATION TESTING
+- BAHASA PEMROGRAMAN
